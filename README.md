@@ -28,7 +28,6 @@
   Hence, by inspecting this dataset, we find that attacks from the Bull shark species are more likely to result in a fatality. This result is corroborated by the following news articles from National Geographic (https://www.nationalgeographic.com/animals/fish/facts/bull-shark) and CBS (https://www.cbsnews.com/pictures/five-most-dangerous-sharks-to-humans/#:~:text=Bull%20Shark,lack%20of%20easily%20identifiable%20markings), which state that "Great Whites get most of the headlines but Bull Sharks may be the most dangerous shark of them all"!
   
 # Contact
-  https://www.linkedin.com/in/henrique-batistuzzo-2608b0136/
+  https://www.linkedin.com/in/henrique-batistuzzo
   https://github.com/hbatistuzzo
-  https://www.youtube.com/channel/UCTihcuVi7oC3RgMPvS5l7Jw
   
