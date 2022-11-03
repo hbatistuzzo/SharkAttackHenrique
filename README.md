@@ -1,5 +1,11 @@
 # SharkAttackHenrique
-  Project status: completed (but more can be done regarding visualization)
+
+![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/SharkAttackHenrique)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/SharkAttackHenrique)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/SharkAttackHenrique)
+![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/SharkAttackHenrique)
+ 
+Project status: completed (but more can be done regarding visualization)
 
 # Project objective
   The goal of this project is to use a database of shark attacks to obtain information regarding the 3 species more likely to assault humans: White sharks, Tiger sharks and Bull sharks. Some of the attacks are fatal while others result in injuries only. By filtering the information therein, we can find the proportion of fatal attacks by species and answer a specific question: which species is more lethal?
